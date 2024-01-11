@@ -1,0 +1,522 @@
+{
+  "operator": {
+    "rooms": [
+      {
+        "id": 166,
+        "addons": [],
+        "status": "active",
+        "category": "room",
+        "sub_category": "dorm-bed",
+        "tax_category": "Room",
+        "amenities": [
+          {
+            "id": 4,
+            "name": "Lockers",
+            "code": "vpn_key"
+          },
+          {
+            "id": 9,
+            "name": "Hot water",
+            "code": "hot_tub"
+          },
+          {
+            "id": 10,
+            "name": "Laundry Services (Extra)",
+            "code": "local_laundry_service"
+          },
+          {
+            "id": 13,
+            "name": "Free Wi-Fi",
+            "code": "wifi"
+          },
+          {
+            "id": 23,
+            "name": "Air-conditioning",
+            "code": "ac_unit"
+          },
+          {
+            "id": 7,
+            "name": "24/7 Reception",
+            "code": "room_service"
+          },
+          {
+            "id": 26,
+            "name": "Bedside Lamps",
+            "code": "wb_incandescent"
+          },
+          {
+            "id": 2,
+            "name": "Sea View",
+            "code": "beach_access"
+          },
+          {
+            "id": 20,
+            "name": "Towels on rent",
+            "code": "layers"
+          },
+          {
+            "id": 18,
+            "name": "Linen Included",
+            "code": "airline_seat_individual_suite"
+          },
+          {
+            "id": 24,
+            "name": "Shower",
+            "code": "shower"
+          }
+        ],
+        "images": [
+          {
+            "id": "18b0874b-4a34-494d-bc29-9d72fba78bdb",
+            "title": "Zostel Alleppey - 6 Bed Mixed Dorm",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/GLCHS0o0SU28KZ1y-6eL2w/zostel-alleppey-6-bed-mixed-dorm-20221008141024.jpg",
+            "alt_text": "Zostel Alleppey - 6 Bed Mixed Dorm",
+            "priority": 10
+          },
+          {
+            "id": "af17e970-2220-405d-84c3-45c0613a602e",
+            "title": "Zostel Alleppey - 6 Bed Mixed Dorm",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/rxfpcCIgQF2Ew0XAYTpgLg/zostel-alleppey-6-bed-mixed-dorm-20221008141141.jpg",
+            "alt_text": "Zostel Alleppey - 6 Bed Mixed Dorm",
+            "priority": 9
+          },
+          {
+            "id": "f816caa2-8d5d-47de-8dc2-a2aed2e714c7",
+            "title": "Zostel Alleppey - 6 Bed Mixed Dorm",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/-BbKoo1dR96NwqKu0ucUxw/zostel-alleppey-6-bed-mixed-dorm-20221008142344.jpg",
+            "alt_text": "Zostel Alleppey - 6 Bed Mixed Dorm",
+            "priority": 8
+          },
+          {
+            "id": "ce95dfa9-1af9-4019-a84c-a6380fea1aef",
+            "title": "Zostel Alleppey - 6 Bed Mixed Dorm",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/zpXfqRr5QBmoTKY4D-oa7w/zostel-alleppey-6-bed-mixed-dorm-20221008142308.jpg",
+            "alt_text": "Zostel Alleppey - 6 Bed Mixed Dorm",
+            "priority": 7
+          },
+          {
+            "id": "e249c72d-a8ad-4b43-9a94-64b33b8843ff",
+            "title": "Zostel Alleppey - 6 Bed Mixed Dorm",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/4knHLaitS0OalGSzO4hD_w/zostel-alleppey-6-bed-mixed-dorm-20221008142431.jpg",
+            "alt_text": "Zostel Alleppey - 6 Bed Mixed Dorm",
+            "priority": 2
+          },
+          {
+            "id": "8817ac72-2417-4069-a7b5-e141a7568d7b",
+            "title": "Zostel Alleppey - 6 Bed Mixed Dorm",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/iBesciQXQGmnteFBp1aNew/zostel-alleppey-6-bed-mixed-dorm-20221008142434.jpg",
+            "alt_text": "Zostel Alleppey - 6 Bed Mixed Dorm",
+            "priority": 1
+          }
+        ],
+        "videos": [],
+        "code": "RM-6IJXI",
+        "name": "6 Bed Mixed Dorm",
+        "description": "<p>A bed in a mixed dormitory with private lockers, and an ensuite washroom.</p>",
+        "inclusion": null,
+        "exclusion": null,
+        "itinerary": null,
+        "priority": 2,
+        "units": 24,
+        "price": 2512.0,
+        "advance_percent": 21.0,
+        "occupancy": 1,
+        "ref_keys": {
+          "ezee": "1047400000000000002"
+        },
+        "data": {},
+        "experience": null
+      },
+      {
+        "id": 168,
+        "addons": [],
+        "status": "active",
+        "category": "room",
+        "sub_category": "private-room",
+        "tax_category": "Room",
+        "amenities": [
+          {
+            "id": 4,
+            "name": "Lockers",
+            "code": "vpn_key"
+          },
+          {
+            "id": 9,
+            "name": "Hot water",
+            "code": "hot_tub"
+          },
+          {
+            "id": 10,
+            "name": "Laundry Services (Extra)",
+            "code": "local_laundry_service"
+          },
+          {
+            "id": 13,
+            "name": "Free Wi-Fi",
+            "code": "wifi"
+          },
+          {
+            "id": 23,
+            "name": "Air-conditioning",
+            "code": "ac_unit"
+          },
+          {
+            "id": 7,
+            "name": "24/7 Reception",
+            "code": "room_service"
+          },
+          {
+            "id": 27,
+            "name": "Towels Included",
+            "code": "checkroom"
+          },
+          {
+            "id": 26,
+            "name": "Bedside Lamps",
+            "code": "wb_incandescent"
+          },
+          {
+            "id": 2,
+            "name": "Sea View",
+            "code": "beach_access"
+          },
+          {
+            "id": 18,
+            "name": "Linen Included",
+            "code": "airline_seat_individual_suite"
+          },
+          {
+            "id": 32,
+            "name": "Balcony",
+            "code": "balcony"
+          },
+          {
+            "id": 24,
+            "name": "Shower",
+            "code": "shower"
+          }
+        ],
+        "images": [
+          {
+            "id": "801fadb9-cfd6-430b-a743-7a7f44264ed1",
+            "title": "Zostel Alleppey - Deluxe Private Room",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/gB-tuc_WQwunQ3p_RCZO0Q/zostel-alleppey-deluxe-private-room-20221008142514.jpg",
+            "alt_text": "Zostel Alleppey - Deluxe Private Room",
+            "priority": 7
+          },
+          {
+            "id": "b8a81689-7ed2-4264-bd73-163130f0c995",
+            "title": "Zostel Alleppey - Deluxe Private Room",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/uKgWiX7SQmS9cxYxMPDJlQ/zostel-alleppey-deluxe-private-room-20221008142534.jpg",
+            "alt_text": "Zostel Alleppey - Deluxe Private Room",
+            "priority": 6
+          },
+          {
+            "id": "5802a003-de35-4e81-8bbc-72e46e003a98",
+            "title": "Zostel Alleppey - Deluxe Private Room",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/WAKgA941ToGLvHLkbgA6mA/zostel-alleppey-deluxe-private-room-20221008142520.jpg",
+            "alt_text": "Zostel Alleppey - Deluxe Private Room",
+            "priority": 5
+          },
+          {
+            "id": "f4a5f9bd-fda1-40c1-b623-771b65727837",
+            "title": "Zostel Alleppey - Deluxe Private Room",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/9KX5vf2hQMG2I3cbZXJ4Nw/zostel-alleppey-deluxe-private-room-20221008142608.jpg",
+            "alt_text": "Zostel Alleppey - Deluxe Private Room",
+            "priority": 4
+          },
+          {
+            "id": "8cbe0f40-fd14-4ad0-91c8-ac33f7542a62",
+            "title": "Zostel Alleppey - Deluxe Private Room",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/jL4PQP0UStCRyKwz91QqYg/zostel-alleppey-deluxe-private-room-20221008142801.jpg",
+            "alt_text": "Zostel Alleppey - Deluxe Private Room",
+            "priority": 3
+          },
+          {
+            "id": "ffc8a5cc-4700-48a7-babf-40c335ce0c93",
+            "title": "Zostel Alleppey - Deluxe Private Room",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/_8ilzEcASKe6v0DDNc4Mkw/zostel-alleppey-deluxe-private-room-20221008142705.jpg",
+            "alt_text": "Zostel Alleppey - Deluxe Private Room",
+            "priority": 2
+          },
+          {
+            "id": "5eb92695-d898-46d2-a8f2-57492323e455",
+            "title": "Zostel Alleppey - Deluxe Private Room",
+            "description": "",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/XrkmldiYRtKo8ldJIyPkVQ/zostel-alleppey-deluxe-private-room-20221008142609.jpg",
+            "alt_text": "Zostel Alleppey - Deluxe Private Room",
+            "priority": 1
+          }
+        ],
+        "videos": [],
+        "code": "RM-EQPSQ",
+        "name": "Deluxe Private Room",
+        "description": "<p>Ensuite room with a double bed and a balcony.</p>",
+        "inclusion": null,
+        "exclusion": null,
+        "itinerary": null,
+        "priority": 1,
+        "units": 4,
+        "price": 2512.0,
+        "advance_percent": 21.0,
+        "occupancy": 2,
+        "ref_keys": {
+          "ezee": "1047400000000000003"
+        },
+        "data": {},
+        "experience": null
+      }
+    ],
+    "images": [
+      {
+        "id": "48045e8a-646d-4697-98c5-cc192fcbc5ab",
+        "title": "Zostel Alleppey",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/SAReimRtRpeYxcwZL8vFqw/zostel-alleppey-20221008133041.jpg",
+        "alt_text": "Zostel Alleppey",
+        "priority": 100
+      },
+      {
+        "id": "2c4673a2-6a8e-4aa6-8a4b-04d352ba39e1",
+        "title": "Zostel Alleppey",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/LEZzomqOSqaKSwTTUro54Q/zostel-alleppey-20221008133126.jpg",
+        "alt_text": "Zostel Alleppey",
+        "priority": 99
+      },
+      {
+        "id": "7fd6e1fc-63ec-4f7d-b6ed-0727c015ec39",
+        "title": "Zostel Alleppey",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/f9bh_GPsT3227QcnwBXsOQ/zostel-alleppey-20221008135621.jpg",
+        "alt_text": "Zostel Alleppey",
+        "priority": 97
+      },
+      {
+        "id": "5bfc0032-a4d4-446a-a4ce-c0da3ff0af29",
+        "title": "Zostel Alleppey - Entrance",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/W_wAMqTURGqkzsDaP_CvKQ/zostel-alleppey-entrance-20221008135930.jpg",
+        "alt_text": "Zostel Alleppey - Entrance",
+        "priority": 96
+      },
+      {
+        "id": "b2457818-e5ec-45c9-82cf-8486e115c04b",
+        "title": "Zostel Alleppey - Facade",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/skV4GOXsRcmCz4SG4RXASw/zostel-alleppey-facade-20221008140010.jpg",
+        "alt_text": "Zostel Alleppey",
+        "priority": 95
+      },
+      {
+        "id": "a92968ab-7ef1-409f-b608-3d965370121a",
+        "title": "Zostel Alleppey",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/qSloq37xQJ-2CD2WU3ASGg/zostel-alleppey-20221008140238.jpg",
+        "alt_text": "Zostel Alleppey",
+        "priority": 94
+      },
+      {
+        "id": "4358b7bd-7f64-4a52-b53c-c905dcfd22fd",
+        "title": "Zostel Alleppey",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/Q1i3vX9kSlK1PMkF3P0i_Q/zostel-alleppey-20221008140626.jpg",
+        "alt_text": "Zostel Alleppey",
+        "priority": 93
+      },
+      {
+        "id": "51b27f78-5aa6-4625-a860-4d8b743f13e5",
+        "title": "Zostel Alleppey",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/UbJ_eFqmRiWoYE2LdD8T5Q/zostel-alleppey-20221008140225.jpg",
+        "alt_text": "Zostel Alleppey",
+        "priority": 90
+      },
+      {
+        "id": "a44fe8cd-5de9-4e55-b24c-fb34566861f5",
+        "title": "Zostel Alleppey - View from the hostel",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/pE_ozV3pTlWyTPs0Vmhh9Q/zostel-alleppey-view-from-the-hostel-20221008140851.jpg",
+        "alt_text": "Zostel Alleppey",
+        "priority": 89
+      },
+      {
+        "id": "7a60b4de-d77d-4270-b0fb-27dc0ec0da51",
+        "title": "Zostel Alleppey - Workstation",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/emC03td9QnCw-yfcDsDaUQ/zostel-alleppey-workstation-20221008140156.jpg",
+        "alt_text": "Zostel Alleppey",
+        "priority": 85
+      },
+      {
+        "id": "d7b54ed9-8f02-4772-a27f-27092c4d42d3",
+        "title": "Zostel Alleppey - Workstation",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/17VO2Y8CR3KifycJLE1C0w/zostel-alleppey-20221008140336.jpg",
+        "alt_text": "Zostel Alleppey",
+        "priority": 84
+      },
+      {
+        "id": "0b9f5dcd-bbb8-4665-9dae-88fc6133e589",
+        "title": "Zostel Alleppey - Private Room",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/C59dzbu4RmWdroj8YTPliQ/zostel-alleppey-private-room-20221008140918.jpg",
+        "alt_text": "Zostel Alleppey",
+        "priority": 80
+      },
+      {
+        "id": "eee2845e-8757-4817-bea1-ecb487c802a4",
+        "title": "Zostel Alleppey - 6 Bed Mixed Dorm",
+        "description": "",
+        "image": "https://img.cdn.zostel.com/zostel/gallery/images/7uKEXodXSBe-oey0h8gCpA/zostel-alleppey-6-bed-mixed-dorm-20221008140949.jpg",
+        "alt_text": "Zostel Alleppey",
+        "priority": 79
+      }
+    ],
+    "videos": [],
+    "amenities": [
+      {
+        "id": 4,
+        "name": "Lockers",
+        "code": "vpn_key"
+      },
+      {
+        "id": 9,
+        "name": "Hot water",
+        "code": "hot_tub"
+      },
+      {
+        "id": 10,
+        "name": "Laundry Services (Extra)",
+        "code": "local_laundry_service"
+      },
+      {
+        "id": 13,
+        "name": "Free Wi-Fi",
+        "code": "wifi"
+      },
+      {
+        "id": 17,
+        "name": "Card Payment Accepted",
+        "code": "payment"
+      },
+      {
+        "id": 14,
+        "name": "Water Dispenser",
+        "code": "local_drink"
+      },
+      {
+        "id": 23,
+        "name": "Air-conditioning",
+        "code": "ac_unit"
+      },
+      {
+        "id": 7,
+        "name": "24/7 Reception",
+        "code": "room_service"
+      },
+      {
+        "id": 11,
+        "name": "Common hangout area",
+        "code": "casino"
+      },
+      {
+        "id": 6,
+        "name": "In-house Activities",
+        "code": "sports_esports"
+      },
+      {
+        "id": 26,
+        "name": "Bedside Lamps",
+        "code": "wb_incandescent"
+      },
+      {
+        "id": 2,
+        "name": "Sea View",
+        "code": "beach_access"
+      },
+      {
+        "id": 8,
+        "name": "Storage Facility",
+        "code": "luggage"
+      },
+      {
+        "id": 18,
+        "name": "Linen Included",
+        "code": "airline_seat_individual_suite"
+      },
+      {
+        "id": 29,
+        "name": "UPI Payment Accepted",
+        "code": "qr_code_scanner"
+      },
+      {
+        "id": 24,
+        "name": "Shower",
+        "code": "shower"
+      },
+      {
+        "id": 15,
+        "name": "Parking",
+        "code": "local_parking"
+      }
+    ],
+    "destination": {
+      "code": "70EOZ",
+      "slug": "alleppey",
+      "name": "Alleppey",
+      "alt_name": null,
+      "thumbnail": "https://img.cdn.zostel.com/destination/alleppey/thumb/Alleppey.svg",
+      "short_description": "Alleppey brings you India's finest backwater experience, marked by quaint canalside villages and brilliant sunsets."
+    },
+    "status": "active",
+    "case_study": null,
+    "min_booking_date": null,
+    "checkin_enabled": false,
+    "type_code": "H",
+    "operating_model": "F",
+    "code": "ALLH830",
+    "slug": "alleppey-allh830",
+    "name": "Zostel Alleppey",
+    "alt_name": "Zostel Alleppey",
+    "tagline": null,
+    "description": "<p>Situated right at the scenic Alappuzha Beach, Zostel Alleppey is a happening backpackers' hostel ideal for exploring the town and its backwaters. A white-coloured building surrounded by swaying palm trees invites you to a dreamy beach vacation here. The hostel is equipped with workstations, a colourful common area with indoor games, and a sprawling rooftop with an unobstructed view of the Arabian Sea. Look forward to a tour of backwaters on a houseboat, soothing village walks, and crimson-gold beach sunsets. And when you make your way back to the hostel, a lively evening full of chatter with fellow travellers will await.&nbsp;</p><p><br></p><p><strong>Recommended experiences:</strong></p><p>Experience the village life in Kuttanad, watch sunsets, and explore long stretches of sand. Watch locals practicing for snake boat race, go on a boat ride on backwaters, and chill by the campfire.</p>",
+    "city": "Alleppey",
+    "title": "Zostel Alleppey | Top Rated Branded Hostel in Alleppey",
+    "short_description": "Situated right at the scenic Alappuzha Beach, Zostel Alleppey is a happening backpackers' hostel ideal for exploring the town and its backwaters. A white-coloured building surrounded by swaying palm trees invites you to a dreamy beach vacation here.",
+    "feature_priority": 0,
+    "bookable_months": 11,
+    "booking_delay": 0,
+    "booking_min_length": 1,
+    "bookable_occupancy": 6,
+    "applicable_taxes": ["cgst", "sgst"],
+    "ota_commission_payable": false,
+    "tax_exclusive_commission": true,
+    "latitude": 9.500365966939258,
+    "longitude": 76.31649485652318,
+    "geo_point": "SRID=4326;POINT (76.31649485652318 9.500365966939258)",
+    "address": "<p>Beach Road, Near Vijay Beach Park, Sea View Ward, Padinjare Kurisadi, Kanjiramchira, Alappuzha, Kerala - 688012</p>",
+    "phone": "+914440114576",
+    "email": "reservations@zostel.com",
+    "directions": "<p>Ask for Vijay Amusement part. Walk North on Beach Road for 500 meters, and you’ll reach a junction. On the opposite right corner, you will find Zostel Alleppey.</p><p><br></p><p><strong>From the Alleppey Railway Station:</strong> 2.5 km; ~INR 85 for a tuk-tuk to Zostel Alleppey.</p><p><br></p><p><strong>From the Bus Stand Jetty:</strong> 4 km; ~INR 100 for a tuk-tuk to Zostel Alleppey.</p><p><br></p><p><strong>From Kochi Airport:</strong> 85 km, 2 hrs; ~INR 2500 for a cab to Zostel Alleppey.</p>",
+    "policy": "<p>- Guests are required to pay a 21% advance at the time of booking itself. The entire balance needs to be cleared upon arrival at the property during check-in.</p><p>- Our standard check-in time is 12 PM and the standard check-out time is 10 AM. Early check-in and late check-out requests are subject to availability, and may also attract an additional fee at the property's discretion.</p><p>- We strictly DO NOT allow a group of more than 6 people. In case of a group of 4 or more, you might be purposefully allotted different dorm rooms. Further, if the group behaviour is deemed unfit at the property, the Zostel Property Manager, upon subjective evaluation, retains the full right to take required action which may also result in an on-spot cancellation without refunds.</p><p>- Children below 18 years of age are not permitted entry/stay at any of our hostels, with or without guardians. We do not recommend families.</p><p>- We only accept a government ID as valid identification proof. No local IDs shall be accepted at the time of check-in.</p><p>- Guests are not permitted to bring outsiders inside the hostel campus.</p><p>- We believe in self-help and do not provide luggage assistance or room services.</p><p>- Drugs and any substance abuse is strictly banned inside and around the property.</p><p>- Alcohol consumption is permitted at the premises as per the property’s discretion and local laws. Please reach out to the property prior to your arrival to confirm the same.</p><p>- Right to admission reserved.&nbsp;</p><p><br></p><p><strong>Note:</strong> No pets are allowed at the property.</p>",
+    "cancellation_policy": "<p>We understand that sometimes plans change. Hence, to make it light on your pocket, we are only charging a 21% advance, which is on a non-refundable basis.</p><p><br></p><p>NOTE:</p><p>- 21% advance payment is non-refundable at all times, as stated above.&nbsp;</p><p>- If you have paid any amount over this 21%, it stands applicable for a credit only if the cancellation is informed 7 days or more in advance. You will be able to avail the credited amount for any future booking at any of our properties.</p><p>- If informed within 7 days of the standard check-in time (12 pm), the amount shall be adjusted against the cancellation fee.</p><p>&nbsp;</p><p>For any other queries, please reach out to us at <a href=\"mailto:reservations@zostel.com\" rel=\"noopener noreferrer\" target=\"_blank\">reservations@zostel.com</a>.</p>",
+    "covid_policy": "<p><br></p>",
+    "checkin_time": "12:00:00",
+    "checkout_time": "10:00:00",
+    "webcheckin_link": "https://bit.ly/checkin_alleppey",
+    "data": {}
+  }
+}
